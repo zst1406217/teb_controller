@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="jackal_helper" type="collision_publisher_node" name="collision_publisher_node" />
+</launch>
